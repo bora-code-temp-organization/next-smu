@@ -136,8 +136,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Storybook",
-    description: "Create, test, and showcase your components.",
+    title: "조예림",
+    description: "컴퓨터과학전공 22",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
