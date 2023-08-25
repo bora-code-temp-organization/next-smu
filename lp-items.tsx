@@ -40,8 +40,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "SukoJim Add Name",
-    description: "For Test Project File To Commit.",
+    title: "ESlint & Prettier",
+    description: "For clean, consistent, and error-free code.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -56,7 +56,7 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "ChoJaeWon",
+    title: "Extremely strict TypeScript",
     description: "With `ts-reset` library for ultimate type safety.",
     icon: (
       <svg
@@ -76,8 +76,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "hi my name is JunWooLee",
-    description: "hello hi nice to meet you im fine thank you and you?",
+    title: "Bundle analyzer plugin",
+    description: "Keep an eye on your bundle size.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -237,7 +237,7 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Health checks",
+    title: "holymoly",
     description: "Kubernetes-compatible for robust deployments.",
     icon: (
       <svg
