@@ -96,8 +96,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Jest & React Testing Library",
-    description: "For rock-solid unit and integration tests.",
+    title: "이연주",
+    description: "상명대학교 컴퓨터과학전공 이연주입니다.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
