@@ -76,8 +76,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Bundle analyzer plugin",
-    description: "Keep an eye on your bundle size.",
+    title: "hi my name is JunWooLee",
+    description: "hello hi nice to meet you im fine thank you and you?",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
