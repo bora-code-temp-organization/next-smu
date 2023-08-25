@@ -56,7 +56,7 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Extremely strict TypeScript",
+    title: "ChoJaeWon",
     description: "With `ts-reset` library for ultimate type safety.",
     icon: (
       <svg
