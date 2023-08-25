@@ -176,8 +176,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Conventional commits git hook",
-    description: "Keep your commit history neat and tidy.",
+    title: "조재원",
+    description: "상명대학교 학부생 조재원입니다.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
