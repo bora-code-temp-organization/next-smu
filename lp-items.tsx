@@ -196,8 +196,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Observability",
-    description: "Open Telemetry integration for seamless monitoring.",
+    title: "sddasdsukksadsaasdas",
+    description: "ㅁ암누ㅏㅁ",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
