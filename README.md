@@ -1,4 +1,4 @@
-# Next.js Enterprise Boilerplateㅇㄹㅇㄹㅇㄹ
+# Next.js Enterprise Boilerplate
 
 ![Project intro image](./project-logo.png)
 
