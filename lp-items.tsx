@@ -196,8 +196,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "이연주ㅁㅇㄻㄹ",
-    description: "ㅇㄹㅇㅁㄴㅁㄷㄹㄷ",
+    title: "이연주ㅇㅎㄷㅁㅇ",
+    description: "ㅇㄹㄴㄹㄷ",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
