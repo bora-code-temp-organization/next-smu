@@ -1,7 +1,7 @@
 export const LP_GRID_ITEMS = [
   {
-    title: "Next.js",
-    description: "Fast by default, with config optimized for performance.",
+    title: "조예림",
+    description: "상명대학교 컴퓨터과학전공 22학번입니다.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
