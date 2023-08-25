@@ -40,8 +40,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "ESlint & Prettier",
-    description: "For clean, consistent, and error-free code.",
+    title: "SukoJim Add Name",
+    description: "For Test Project File To Commit.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
