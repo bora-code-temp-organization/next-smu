@@ -116,8 +116,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Playwright",
-    description: "Write end-to-end tests like a pro.",
+    title: "이보라",
+    description: "블록체인 개발자 이보라입니다.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
