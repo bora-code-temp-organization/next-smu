@@ -1,7 +1,7 @@
 export const LP_GRID_ITEMS = [
   {
-    title: "조예림",
-    description: "상명대학교 컴퓨터과학전공 22학번입니다.",
+    title: "Next.js",
+    description: "Fast by default, with config optimized for performance.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -40,8 +40,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "SukoJim Add Name",
-    description: "For Test Project File To Commit.",
+    title: "ESlint & Prettier",
+    description: "For clean, consistent, and error-free code.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -56,7 +56,7 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "ChoJaeWon",
+    title: "Extremely strict TypeScript",
     description: "With `ts-reset` library for ultimate type safety.",
     icon: (
       <svg
@@ -96,8 +96,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "이연주",
-    description: "상명대학교 컴퓨터과학전공 이연주입니다.",
+    title: "Jest & React Testing Library",
+    description: "For rock-solid unit and integration tests.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -237,8 +237,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Health checks",
-    description: "Kubernetes-compatible for robust deployments.",
+    title: "이준우",
+    description: "이준우 입니다",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
