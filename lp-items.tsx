@@ -196,8 +196,8 @@ export const LP_GRID_ITEMS = [
     ),
   },
   {
-    title: "Observability",
-    description: "Open Telemetry integration for seamless monitoring.",
+    title: "이연주",
+    description: "컴퓨터과학전공",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
